@@ -1,14 +1,11 @@
 # my-first-repo
-![Profile Image](https://via.placeholder.com/150) <!-- Replace with your image link -->
+![Image](https://via.placeholder.com/150) 
 
 ## Links
-- [My GitHub Profile](https://github.com/your-username)
-- [My LinkedIn](https://linkedin.com/in/your-profile)
+- [My GitHub Profile](https://github.com/yuoshy)
 
 ## About Me
-Hello! I am a passionate developer learning new technologies every day. Here's a bit about me:
-
-- 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning various technologies like Python, JavaScript, and DevOps.
-- 💬 Ask me about anything related to software development.
-- 📫 How to reach me: your-email@example.com
+Hello I am a student in BUID " The British University in Dubai " 
+-  I’m  working on improving my coding skills.
+-  I’m currently learning various technologies like Python, JavaScript, and More.
+-  How to reach me: yousifbineshaq@gmail.com
